@@ -73,7 +73,7 @@ Para executar os testes:
 dotnet test
 ```
 
-Execute no diretório da solução onde está o projeto `TesteL2.Tests`.
+Execute no diretório da solução onde está o projeto `TesteUnitario`.
 
 
 
